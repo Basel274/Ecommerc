@@ -1,6 +1,6 @@
 package com.fawry.ecommerce;
 
-public final class Product {
+public class Product {
 
         private String name;
         private double price;

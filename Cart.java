@@ -4,7 +4,7 @@ package com.fawry.ecommerce;
 import java.util.ArrayList;
 import java.util.List;
 
-class Cart {
+public class Cart {
     private List<CartItem> items = new ArrayList<>();
 
     public void add(Product product, int quantity) throws Exception  {
